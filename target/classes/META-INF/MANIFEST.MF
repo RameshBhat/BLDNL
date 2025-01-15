@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 21
+Implementation-Title: navigator-plugin-extension
+Implementation-Version: 1.0-SNAPSHOT
+Created-By: Maven Integration for Eclipse
+Plugin-Class: nl.bld.gda.cp4ba.icn.GDAPlugin
+
