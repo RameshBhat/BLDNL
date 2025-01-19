@@ -1,7 +1,7 @@
 package nl.bld.gda.icn;
 import java.util.Locale;
+
 import com.ibm.ecm.extension.Plugin;
-import com.ibm.ecm.extension.PluginAction;
 
 public class GDAPlugin extends Plugin{
 	@Override
@@ -25,5 +25,7 @@ public class GDAPlugin extends Plugin{
 	public String getScript() {
 		return "GDAPlugin.js";
 	}
+
+
 
 }

@@ -1,6 +1,13 @@
 # Compiled class file
 *.class
 
+# VSCode specific
+.vscode/
+
+#Local settings files
+*.settings*
+*.classpath
+
 # Log file
 *.log
 
