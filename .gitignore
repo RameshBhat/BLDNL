@@ -5,8 +5,10 @@
 .vscode/
 
 #Local settings files
-*.settings*
-*.classpath
+.settings
+.classpath
+.project
+
 
 # Log file
 *.log
